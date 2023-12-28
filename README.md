@@ -1,5 +1,6 @@
 ![desktop](https://github.com/DarthMooMancer/Darthi3wmdotfiles/assets/107283522/b505c044-f91a-40ff-a181-b4a9bf5b787f)
 ![desktop1](https://github.com/DarthMooMancer/Darthi3wmdotfiles/assets/107283522/b4f9282d-10eb-4664-8e5b-c8330417b13f)
+![desktop2](https://github.com/DarthMooMancer/Darthi3wmdotfiles/assets/107283522/8dbd78cd-3ec8-4b3f-9024-52346c7e0d47)
 
 This dotfiles is meant for the ease of someone wanting a base or is just lazy (me). 
 
@@ -67,7 +68,8 @@ Step 3:
 run wal -i <locationofwallpaper>
 add wal -R to xorg_profile
 
-
-
+Step 4:
+NightTab.json is for the extension of nightTab on firefox
+Change my name to yours in the settings of nighttab
 
 -------------------------------------------------

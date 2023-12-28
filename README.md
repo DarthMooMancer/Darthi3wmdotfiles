@@ -16,6 +16,8 @@ Packages needed:
 - neofetch
 - autotiling #https://aur.archlinux.org/autotiling.git
 - ttf-font-awesome and otf-font-awesome
+- pulseaudio / jack / alsa / pavucontrol
+- pywal
 ______________________________________________________________________________________________
 
 Installing:
@@ -23,7 +25,7 @@ Installing:
 base packages:
 
 sudo pacman -Syu
-sudo pacman -S git i3wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget
+sudo pacman -S git i3wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal
 ______________________________________________________________________________________________
 autotiling package:
 
@@ -59,6 +61,9 @@ Step 2:
  - sudo cp -r ~/Darthi3wmdotfiles/<foldername> ~/.config/
  - then refresh i3 with mod+shift+r
 
+Step 3:
+run wal -i <locationofwallpaper>
+add wal -R to xorg_profile
 
 
 

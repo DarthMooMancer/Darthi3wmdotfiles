@@ -55,7 +55,7 @@ cd Darthi3wmdotfiles
 stow */ #If this doesnt work follow the next step
 
 Step 2:
-# If there is already configs for these use sudo rm -rd to remove the folder, but firstly back your folder up back it
+#If there is already configs for these use sudo rm -rd to remove the folder, but firstly back your folder up back it
 sudo cp -r ~/Darthi3wmdotfiles/<foldername> ~/.config/
 then refresh i3 with mod+shift+r
 

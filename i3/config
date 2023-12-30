@@ -107,6 +107,6 @@ client.urgent           #4c566a #BF616A #d8dee9 #81a1c1
 
 client.background       #2e3440
 
-exec feh --bg-fill ~/.dotfiles/Wallpapers/aquarium.png
+exec feh --bg-fill ~/Wallpapers/aquarium.png
 
 exec_always autotiling

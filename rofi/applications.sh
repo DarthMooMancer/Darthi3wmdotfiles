@@ -6,17 +6,15 @@ browser="󰈹  Firefox "
 terminal="  Kitty "
 files="󰪶  Ranger "
 monitor="  Htop "
-editor="󱩽  Gedit "
 
 selected_option=$(echo "$browser
 $code
 $terminal
 $files
-$monitor
-$editor" | rofi -dmenu\
+$monitor" | rofi -dmenu\
                         -i\
 			-p "Applications"\
-		        -config "/usr/share/rofi/themes/applicationsmenu.rasi"\
+		        -config "~/.config/rofi/applicationsmenu.rasi"\
 		        -font "Cascadia Code 13"\
 		        -width "1000"\
 		        -lines 5\
@@ -43,10 +41,6 @@ then
 elif [ "$selected_option" == "$monitor" ]
 then
     kitty -e htop
-
-elif [ "$selected_option" == "$editor" ]
-then
-    gedit
 
 else 
     echo "No Match"

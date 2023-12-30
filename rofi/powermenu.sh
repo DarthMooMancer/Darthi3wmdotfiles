@@ -15,7 +15,7 @@ $reboot
 $shutdown" | rofi -dmenu\
                   -i\
                   -p "󰤆  Power"\
-                  -config "/usr/share/rofi/themes/powermenu.rasi"\
+                  -config "~/.config/rofi/powermenu.rasi"\
                   -font "Cascadia Code 13"\
                   -width "1000"\
                   -lines 5\

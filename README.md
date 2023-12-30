@@ -31,13 +31,13 @@ base packages:
 ______________________________________________________________________________________________
 autotiling package:
 
-git clone https://aur.archlinux.org/autotiling.git
-cd autotiling
-makepkg -si
+- git clone https://aur.archlinux.org/autotiling.git
+- cd autotiling
+- makepkg -si
 ______________________________________________________________________________________________
 ohmyzsh package:
 
-sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+- sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
 ----------------------------------------------------------------------------------------------  
 - [Needed for application menu but can be removed if not wanted.]

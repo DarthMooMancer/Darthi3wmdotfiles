@@ -8,7 +8,7 @@ echo ""
 echo " Installing"
 echo ""
 
-sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal
+sudo pacman -S git zsh i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal
 
 echo "Base Packages installed"
 

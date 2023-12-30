@@ -57,5 +57,11 @@ pacman -Qqtd
 pacman -Qqd | pacman -Rsu --print -
 pacman -Qtdq | sudo pacman -Rns -
 
-echo "Run <windows-key>+<shift>+<r>"
 echo ""
+echo "Theming"
+echo ""
+
+wal -i ~/Wallpapers/aquarium.png
+
+echo "Run <windows-key>+<shift>+<r>"
+echo "Add "Wal -R" to bottom of xorg_profile to keep theme after restart"

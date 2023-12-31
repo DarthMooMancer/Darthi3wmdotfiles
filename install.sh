@@ -34,14 +34,22 @@ sudo rm -rd ~/.config/neofetch
 sudo rm -rd ~/.config/kitty
 sudo rm -rf ~/.zshrc
 sudo rm -rf ~/.bash_profile
-
 echo ""
 echo "Cloning and Setup"
 echo ""
 
 cd Darthi3wmdotfiles
-cp -r i3 ~/.config
-cp -r kitty ~/.config
+
+sudo rm -rf /etc/mkinitcpio.conf
+sudo mv ~/Darthi3wmdotfiles/mkinitcpio.conf /etc/
+sudo mkinitcpio -p linux
+
+mkdir ~/.config/i3
+mv ~/Darthi3wmdotfiles/i3/config ~/.config/i3/
+mv ~/Darthi3wmdotfiles/i3/i3status.conf ~/.config/i3/
+
+mkdir ~/.config/kitty
+mv ~/Darthi3wmdotfiles/kitty/kitty.conf ~/.config/kitty/
 cp -r neofetch ~/.config
 cp -r rofi ~/.config
 cp -r Wallpapers ~/

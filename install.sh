@@ -8,11 +8,7 @@ echo ""
 echo " Installing"
 echo ""
 
-<<<<<<< HEAD
-sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal vim zsh
-=======
-sudo pacman -S git zsh i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal
->>>>>>> c74a873d6144a291a73b8549982f16f49cd9d2b4
+sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal vim zsh brightnessctl
 
 echo "Base Packages installed"
 
@@ -50,6 +46,7 @@ cp -r neofetch ~/.config
 cp -r rofi ~/.config
 cp -r Wallpapers ~/
 mv .bash_profile ~/
+cp -r wal ~/.cache/
 
 cp -r zsh ~/
 cd ~/zsh

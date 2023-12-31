@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/blue.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0a1c",
+        "foreground": "#91d8d0",
+        "cursor": "#91d8d0"
+    },
+    "colors": {
+        "color0": "#0c0a1c",
+        "color1": "#2E4E6C",
+        "color2": "#4D5074",
+        "color3": "#286F88",
+        "color4": "#5F548E",
+        "color5": "#A641A9",
+        "color6": "#209D98",
+        "color7": "#91d8d0",
+        "color8": "#659791",
+        "color9": "#2E4E6C",
+        "color10": "#4D5074",
+        "color11": "#286F88",
+        "color12": "#5F548E",
+        "color13": "#A641A9",
+        "color14": "#209D98",
+        "color15": "#91d8d0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/red-gradient.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#94201f",
+        "foreground": "#f39098",
+        "cursor": "#f39098"
+    },
+    "colors": {
+        "color0": "#94201f",
+        "color1": "#FA442C",
+        "color2": "#FA4928",
+        "color3": "#FB5022",
+        "color4": "#FC5021",
+        "color5": "#FC5520",
+        "color6": "#FE7926",
+        "color7": "#f39098",
+        "color8": "#aa646a",
+        "color9": "#FA442C",
+        "color10": "#FA4928",
+        "color11": "#FB5022",
+        "color12": "#FC5021",
+        "color13": "#FC5520",
+        "color14": "#FE7926",
+        "color15": "#f39098"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/themeing/Sweet-Wallpapers/Sweet-S3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121023",
+        "foreground": "#efb9a2",
+        "cursor": "#efb9a2"
+    },
+    "colors": {
+        "color0": "#121023",
+        "color1": "#5E2648",
+        "color2": "#CF3C66",
+        "color3": "#B24E48",
+        "color4": "#EF5752",
+        "color5": "#DD8237",
+        "color6": "#FC8A3C",
+        "color7": "#efb9a2",
+        "color8": "#a78171",
+        "color9": "#5E2648",
+        "color10": "#CF3C66",
+        "color11": "#B24E48",
+        "color12": "#EF5752",
+        "color13": "#DD8237",
+        "color14": "#FC8A3C",
+        "color15": "#efb9a2"
+    }
+}

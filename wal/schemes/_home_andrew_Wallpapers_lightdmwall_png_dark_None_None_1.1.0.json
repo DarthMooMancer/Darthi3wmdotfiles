@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Wallpapers/lightdmwall.png",
+    "alpha": "100",
+    "special": {
+        "background": "#04060D",
+        "foreground": "#c6c9c2",
+        "cursor": "#c6c9c2"
+    },
+    "colors": {
+        "color0": "#04060D",
+        "color1": "#2C546A",
+        "color2": "#4E6A76",
+        "color3": "#82836F",
+        "color4": "#3B6D82",
+        "color5": "#4B7586",
+        "color6": "#667C83",
+        "color7": "#c6c9c2",
+        "color8": "#8a8c87",
+        "color9": "#2C546A",
+        "color10": "#4E6A76",
+        "color11": "#82836F",
+        "color12": "#3B6D82",
+        "color13": "#4B7586",
+        "color14": "#667C83",
+        "color15": "#c6c9c2"
+    }
+}

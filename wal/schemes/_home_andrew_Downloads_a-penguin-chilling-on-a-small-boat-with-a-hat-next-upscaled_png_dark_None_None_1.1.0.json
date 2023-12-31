@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Downloads/a-penguin-chilling-on-a-small-boat-with-a-hat-next-upscaled.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a11",
+        "foreground": "#c5c6d6",
+        "cursor": "#c5c6d6"
+    },
+    "colors": {
+        "color0": "#0f0a11",
+        "color1": "#466493",
+        "color2": "#596EA2",
+        "color3": "#A57B8E",
+        "color4": "#779DB4",
+        "color5": "#769CB6",
+        "color6": "#7AA3C2",
+        "color7": "#c5c6d6",
+        "color8": "#898a95",
+        "color9": "#466493",
+        "color10": "#596EA2",
+        "color11": "#A57B8E",
+        "color12": "#779DB4",
+        "color13": "#769CB6",
+        "color14": "#7AA3C2",
+        "color15": "#c5c6d6"
+    }
+}

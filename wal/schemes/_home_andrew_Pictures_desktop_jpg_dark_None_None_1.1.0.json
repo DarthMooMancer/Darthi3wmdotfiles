@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/desktop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0d1d",
+        "foreground": "#8dd0d8",
+        "cursor": "#8dd0d8"
+    },
+    "colors": {
+        "color0": "#0e0d1d",
+        "color1": "#304971",
+        "color2": "#972D73",
+        "color3": "#C82D7E",
+        "color4": "#47669D",
+        "color5": "#CC4995",
+        "color6": "#26A8C9",
+        "color7": "#8dd0d8",
+        "color8": "#629197",
+        "color9": "#304971",
+        "color10": "#972D73",
+        "color11": "#C82D7E",
+        "color12": "#47669D",
+        "color13": "#CC4995",
+        "color14": "#26A8C9",
+        "color15": "#8dd0d8"
+    }
+}

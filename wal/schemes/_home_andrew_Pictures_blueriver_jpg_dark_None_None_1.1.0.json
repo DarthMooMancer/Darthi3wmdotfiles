@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/blueriver.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#03142D",
+        "foreground": "#eaccc4",
+        "cursor": "#eaccc4"
+    },
+    "colors": {
+        "color0": "#03142D",
+        "color1": "#1E6D8B",
+        "color2": "#606E88",
+        "color3": "#2D94A8",
+        "color4": "#5AA5B1",
+        "color5": "#57BDC9",
+        "color6": "#AABEBC",
+        "color7": "#eaccc4",
+        "color8": "#a38e89",
+        "color9": "#1E6D8B",
+        "color10": "#606E88",
+        "color11": "#2D94A8",
+        "color12": "#5AA5B1",
+        "color13": "#57BDC9",
+        "color14": "#AABEBC",
+        "color15": "#eaccc4"
+    }
+}

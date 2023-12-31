@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/andrew/Wallpapers/aquarium.png"
+let background = "#191c23"
+let foreground = "#c9dde3"
+let cursor     = "#c9dde3"
+
+" Colors
+let color0  = "#191c23"
+let color1  = "#D08770"
+let color2  = "#6387AC"
+let color3  = "#76B5C9"
+let color4  = "#83A9C5"
+let color5  = "#9BADC3"
+let color6  = "#89C1D1"
+let color7  = "#c9dde3"
+let color8  = "#8c9a9e"
+let color9  = "#D08770"
+let color10 = "#6387AC"
+let color11 = "#76B5C9"
+let color12 = "#83A9C5"
+let color13 = "#9BADC3"
+let color14 = "#89C1D1"
+let color15 = "#c9dde3"

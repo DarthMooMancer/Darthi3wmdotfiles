@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Downloads/kde-plasma-wallpaper-preview.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2230",
+        "foreground": "#e2bc98",
+        "cursor": "#e2bc98"
+    },
+    "colors": {
+        "color0": "#1f2230",
+        "color1": "#9D3B4C",
+        "color2": "#923953",
+        "color3": "#A14C4E",
+        "color4": "#CB6640",
+        "color5": "#309E61",
+        "color6": "#53A964",
+        "color7": "#e2bc98",
+        "color8": "#9e836a",
+        "color9": "#9D3B4C",
+        "color10": "#923953",
+        "color11": "#A14C4E",
+        "color12": "#CB6640",
+        "color13": "#309E61",
+        "color14": "#53A964",
+        "color15": "#e2bc98"
+    }
+}

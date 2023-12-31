@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Wallpapers/linux.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090c0f",
+        "foreground": "#aec2c5",
+        "cursor": "#aec2c5"
+    },
+    "colors": {
+        "color0": "#090c0f",
+        "color1": "#303B42",
+        "color2": "#38474E",
+        "color3": "#3D5863",
+        "color4": "#4E5D62",
+        "color5": "#9E3C22",
+        "color6": "#F04B16",
+        "color7": "#aec2c5",
+        "color8": "#798789",
+        "color9": "#303B42",
+        "color10": "#38474E",
+        "color11": "#3D5863",
+        "color12": "#4E5D62",
+        "color13": "#9E3C22",
+        "color14": "#F04B16",
+        "color15": "#aec2c5"
+    }
+}

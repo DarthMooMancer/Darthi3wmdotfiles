@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Downloads/subtle-background-with-moutains-and-trees-on-a-sil-upscaled.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070A1C",
+        "foreground": "#e4c8ca",
+        "cursor": "#e4c8ca"
+    },
+    "colors": {
+        "color0": "#070A1C",
+        "color1": "#9A5C63",
+        "color2": "#DC4E5C",
+        "color3": "#847D8B",
+        "color4": "#999198",
+        "color5": "#A69C9B",
+        "color6": "#B5A3A4",
+        "color7": "#e4c8ca",
+        "color8": "#9f8c8d",
+        "color9": "#9A5C63",
+        "color10": "#DC4E5C",
+        "color11": "#847D8B",
+        "color12": "#999198",
+        "color13": "#A69C9B",
+        "color14": "#B5A3A4",
+        "color15": "#e4c8ca"
+    }
+}

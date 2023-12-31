@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Downloads/4-arch.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#182136",
+        "foreground": "#d0bdcf",
+        "cursor": "#d0bdcf"
+    },
+    "colors": {
+        "color0": "#182136",
+        "color1": "#164C94",
+        "color2": "#6B579C",
+        "color3": "#524CA8",
+        "color4": "#9D60A6",
+        "color5": "#B170B0",
+        "color6": "#798FAC",
+        "color7": "#d0bdcf",
+        "color8": "#918490",
+        "color9": "#164C94",
+        "color10": "#6B579C",
+        "color11": "#524CA8",
+        "color12": "#9D60A6",
+        "color13": "#B170B0",
+        "color14": "#798FAC",
+        "color15": "#d0bdcf"
+    }
+}

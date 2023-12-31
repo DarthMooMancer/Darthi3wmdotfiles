@@ -1,0 +1,21 @@
+set $wallpaper /home/andrew/Wallpapers/aquarium.png
+
+set $background #191c23
+set $foreground #c9dde3
+
+set $color0 #191c23
+set $color1 #D08770
+set $color2 #6387AC
+set $color3 #76B5C9
+set $color4 #83A9C5
+set $color5 #9BADC3
+set $color6 #89C1D1
+set $color7 #c9dde3
+set $color8 #8c9a9e
+set $color9 #D08770
+set $color10 #6387AC
+set $color11 #76B5C9
+set $color12 #83A9C5
+set $color13 #9BADC3
+set $color14 #89C1D1
+set $color15 #c9dde3

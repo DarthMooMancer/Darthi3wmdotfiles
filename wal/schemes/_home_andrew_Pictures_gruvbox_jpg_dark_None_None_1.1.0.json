@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/gruvbox.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111515",
+        "foreground": "#acc2be",
+        "cursor": "#acc2be"
+    },
+    "colors": {
+        "color0": "#111515",
+        "color1": "#E29A1A",
+        "color2": "#D79922",
+        "color3": "#938E66",
+        "color4": "#3A7F84",
+        "color5": "#3A838E",
+        "color6": "#458587",
+        "color7": "#acc2be",
+        "color8": "#788785",
+        "color9": "#E29A1A",
+        "color10": "#D79922",
+        "color11": "#938E66",
+        "color12": "#3A7F84",
+        "color13": "#3A838E",
+        "color14": "#458587",
+        "color15": "#acc2be"
+    }
+}

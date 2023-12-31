@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Wallpapers/red.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#dedede",
+        "cursor": "#dedede"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#FF203F",
+        "color2": "#B83042",
+        "color3": "#E02A44",
+        "color4": "#FF2644",
+        "color5": "#FF2D4A",
+        "color6": "#A2A2A2",
+        "color7": "#dedede",
+        "color8": "#9b9b9b",
+        "color9": "#FF203F",
+        "color10": "#B83042",
+        "color11": "#E02A44",
+        "color12": "#FF2644",
+        "color13": "#FF2D4A",
+        "color14": "#A2A2A2",
+        "color15": "#dedede"
+    }
+}

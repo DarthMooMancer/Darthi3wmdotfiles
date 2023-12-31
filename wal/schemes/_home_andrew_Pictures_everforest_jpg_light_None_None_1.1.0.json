@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/andrew/Pictures/everforest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#f8fbee",
+        "foreground": "#061A1E",
+        "cursor": "#061A1E"
+    },
+    "colors": {
+        "color0": "#f8fbee",
+        "color1": "#3F8F63",
+        "color2": "#54986D",
+        "color3": "#5CA074",
+        "color4": "#7CB285",
+        "color5": "#A8CD87",
+        "color6": "#C8E690",
+        "color7": "#061A1E",
+        "color8": "#7e8a57",
+        "color9": "#3F8F63",
+        "color10": "#54986D",
+        "color11": "#5CA074",
+        "color12": "#7CB285",
+        "color13": "#A8CD87",
+        "color14": "#C8E690",
+        "color15": "#061A1E"
+    }
+}

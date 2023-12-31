@@ -8,7 +8,7 @@ echo ""
 echo " Installing"
 echo ""
 
-sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal
+sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal vim zsh
 
 echo "Base Packages installed"
 
@@ -33,21 +33,23 @@ sudo rm -rd ~/.config/i3
 sudo rm -rd ~/.config/neofetch
 sudo rm -rd ~/.config/kitty
 sudo rm -rf ~/.zshrc
-
+sudo rm -rf ~/.bash_profile
 
 echo ""
 echo "Cloning and Setup"
 echo ""
 
 cd Darthi3wmdotfiles
-sudo cp -r i3 ~/.config
-sudo cp -r kitty ~/.config
-sudo cp -r neofetch ~/.config
-sudo cp -r rofi ~/.config
-sudo cp -r Wallpapers ~/
-sudo cp -r zsh ~/
+cp -r i3 ~/.config
+cp -r kitty ~/.config
+cp -r neofetch ~/.config
+cp -r rofi ~/.config
+cp -r Wallpapers ~/
+mv .bash_profile ~/
+
+cp -r zsh ~/
 cd ~/zsh
-sudo mv .zshrc ~/
+mv .zshrc ~/
 
 echo ""
 echo "Finished... Now Cleaning"

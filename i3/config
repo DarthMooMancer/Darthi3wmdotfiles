@@ -83,7 +83,7 @@ bar {
     separator_symbol "|"
     strip_workspace_numbers no
     padding 0px 12px 5px 5px 
-    status_command i3status =c ~/.config/i3/i3status.conf
+    status_command i3status -c ~/.config/i3/i3status.conf
     colors {
       background #2E3440
       statusline #d8dee9

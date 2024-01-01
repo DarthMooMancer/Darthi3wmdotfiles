@@ -18,12 +18,6 @@ makepkg -si
 
 echo "AutoTiling Installed"
 
-cd 
-
-sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
-
-echo "Oh-My-Zsh Installed"
-
 echo ""
 echo "Removing Folders that break install"
 echo ""
@@ -50,13 +44,13 @@ mv ~/Darthi3wmdotfiles/i3/i3status.conf ~/.config/i3/
 
 mkdir ~/.config/kitty
 mv ~/Darthi3wmdotfiles/kitty/kitty.conf ~/.config/kitty/
-cp -r neofetch ~/.config
-cp -r rofi ~/.config
-cp -r Wallpapers ~/
-mv .bash_profile ~/
-cp -r wal ~/.cache/
+cp -r ~/Darthi3wmdotfiles/neofetch ~/.config
+cp -r ~/Darthi3wmdotfiles/rofi ~/.config
+cp -r ~/Darthi3wmdotfiles/Wallpapers ~/
+mv ~/Darthi3wmdotfiles/xorg/.bash_profile ~/
+cp -r ~/Darthi3wmdotfiles/wal ~/.cache/
 
-cp -r zsh ~/
+cp -r ~/Darthi3wmdotfiles/zsh ~/
 cd ~/zsh
 mv .zshrc ~/
 

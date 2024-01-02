@@ -8,7 +8,7 @@ echo ""
 echo " Installing"
 echo ""
 
-sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal vim zsh brightnessctl feh
+sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome otf-font-awesome wget pulseaudio pulseaudio-jack pulseaudio-alsa pavucontrol python-pywal vim zsh brightnessctl feh ttf-firacode-nerd
 
 echo "Base Packages installed"
 
@@ -33,7 +33,7 @@ echo "Cloning and Setup"
 echo ""
 
 cd Darthi3wmdotfiles
-
+sudo mkdir ~/.config/
 sudo rm -rf /etc/mkinitcpio.conf
 sudo mv ~/Darthi3wmdotfiles/mkinitcpio.conf /etc/
 sudo mkinitcpio -p linux

@@ -43,13 +43,12 @@ mv ~/Darthi3wmdotfiles/i3/config ~/.config/i3/
 mv ~/Darthi3wmdotfiles/i3/i3status.conf ~/.config/i3/
 
 mkdir ~/.config/kitty
-mv ~/Darthi3wmdotfiles/kitty/kitty.conf ~/.config/kitty/
+cp ~/Darthi3wmdotfiles/kitty/kitty.conf ~/.config/kitty/
 cp -r ~/Darthi3wmdotfiles/neofetch ~/.config
 cp -r ~/Darthi3wmdotfiles/rofi ~/.config
 cp -r ~/Darthi3wmdotfiles/Wallpapers ~/
-mv ~/Darthi3wmdotfiles/xorg/.bash_profile ~/
+cp ~/Darthi3wmdotfiles/xorg/.bash_profile ~/
 cp -r ~/Darthi3wmdotfiles/wal ~/.cache/
-
 cp -r ~/Darthi3wmdotfiles/zsh ~/
 cd ~/zsh
 mv .zshrc ~/

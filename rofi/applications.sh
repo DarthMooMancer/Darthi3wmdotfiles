@@ -1,17 +1,17 @@
-#!/bin/env bash
-
 # Options for Applications Menu
-code="󰅳  Sublime-Text "
-browser="󰈹  Firefox "
+code="  VS-Code "
+browser="󰥧  Firefox "
 terminal="  Kitty "
 files="󰪶  Ranger "
 monitor="  Htop "
+minecraft="󰍳  Minecraft "
 
 selected_option=$(echo "$browser
 $code
 $terminal
 $files
-$monitor" | rofi -dmenu\
+$monitor
+$minecraft" | rofi -dmenu\
                         -i\
 			-p "Applications"\
 		        -config "~/.config/rofi/applicationsmenu.rasi"\
@@ -28,7 +28,7 @@ then
 
 elif [ "$selected_option" == "$code" ]
 then 
-    subl
+    code
 
 elif [ "$selected_option" == "$terminal" ]
 then
@@ -42,6 +42,11 @@ elif [ "$selected_option" == "$monitor" ]
 then
     kitty -e htop
 
+elif [ "$selected_option" == "$minecraft" ]
+then
+    minecraft-launcher
+
+ 
 else 
     echo "No Match"
 

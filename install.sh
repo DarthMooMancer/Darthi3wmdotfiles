@@ -12,12 +12,6 @@ sudo pacman -S git i3-wm i3status i3lock rofi kitty neofetch ttf-font-awesome ot
 
 echo "Base Packages installed"
 
-git clone https://aur.archlinux.org/autotiling.git
-cd autotiling
-makepkg -si
-
-echo "AutoTiling Installed"
-
 echo ""
 echo "Removing Folders that break install"
 echo ""
@@ -26,7 +20,6 @@ sudo rm -rd ~/.config/rofi
 sudo rm -rd ~/.config/i3
 sudo rm -rd ~/.config/neofetch
 sudo rm -rd ~/.config/kitty
-sudo rm -rf ~/.zshrc
 sudo rm -rf ~/.bash_profile
 echo ""
 echo "Cloning and Setup"
@@ -49,9 +42,7 @@ cp -r ~/Darthi3wmdotfiles/rofi ~/.config
 cp -r ~/Darthi3wmdotfiles/Wallpapers ~/
 cp ~/Darthi3wmdotfiles/xorg/.bash_profile ~/
 cp -r ~/Darthi3wmdotfiles/wal ~/.cache/
-cp -r ~/Darthi3wmdotfiles/zsh ~/
-cd ~/zsh
-mv .zshrc ~/
+
 
 echo ""
 echo "Finished... Now Cleaning"
